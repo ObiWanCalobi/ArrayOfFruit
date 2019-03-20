@@ -9,7 +9,7 @@ namespace Array_of_Fruit
     class Program
     {
         /// <summary>
-        /// Fruit Array
+        /// Fruit Array for Today
         /// </summary>
         public enum Fruit
         {
